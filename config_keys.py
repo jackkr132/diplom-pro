@@ -1,0 +1,5 @@
+user_token = "токен"
+bots_token = "токен"
+owner_db = "owner_pro_diplom_db"
+db_name = "pro_diplom_db"
+db_password = "owner_pro_diplom_db"
